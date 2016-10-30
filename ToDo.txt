@@ -1,0 +1,7 @@
+Probe cost balance (ikotet gold, hecs gold)
+module = Strut
+
+resistojet sound (on/off), thrust
+sunrise sound (on/off), thrust
+
+============CHECK==============
