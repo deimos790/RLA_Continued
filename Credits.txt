@@ -1,0 +1,5 @@
+hoojiwana = created RLA_Stockalike
+
+Deimos Rast = created the RLA_Continued patches
+
+PocketBrotector = contributed intermediate patches
