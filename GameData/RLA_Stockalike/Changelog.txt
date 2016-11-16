@@ -2,8 +2,9 @@
 v0.2.0
 ======================================================================================
 - Merger Complete
-- GameData > RLA_Stockalike
+- GameData > RLA_Stockalike (folder structure change)
 - Added DrawGauges to ElectricCharge propellant on Electric engines
+- Switched around TET and IKOTET KerbNet access (thanks PocketBrotector, again)
 
 ======================================================================================
 v0.1.1
